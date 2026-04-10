@@ -1,9 +1,10 @@
+
 {
   "version": 8,
   "sources": {
     "te-ara-hura": {
       "type": "geojson",
-      "data": "sources/te_ara_hura.geojson"
+      "data": "sources/te_ara_hua.geojson"
     }
   },
   "layers": [
